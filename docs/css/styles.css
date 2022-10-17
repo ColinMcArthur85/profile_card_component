@@ -85,7 +85,7 @@ body {
   background-color: hsl(185deg, 75%, 39%);
   font-family: "Kumbh Sans", sans-serif;
   font-size: 1.125rem;
-  background-image: url(/images/bg-pattern-top.svg), url(/images/bg-pattern-bottom.svg);
+  background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
   background-position: top -30rem left -20rem, bottom -30rem right -20rem;
   background-size: contain;
   background-repeat: no-repeat;
